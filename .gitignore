@@ -2,7 +2,6 @@
 # Model files
 *.keras
 *.h5
-*.pkl
 
 
 # Python
