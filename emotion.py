@@ -3,7 +3,8 @@ import cv2
 import numpy as np
 
 # Load the model
-emotion_model = load_model('model_full.h5')
+# emotion_model = load_model('./../models/model_full.h5')
+# emotion_model = load_model('./../models/model_full.h5')
 
 # Emotion labels
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
